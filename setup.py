@@ -13,8 +13,8 @@ with open(path.join(HERE, 'README.md'), encoding='utf-8') as f:
 
 # This call to setup() does all the work
 setup(
-    name="Minuit Extension",
-    version="0.1.0",
+    name="ExtendedMinuit",
+    version="0.1.2",
     description="Extension library for Minuit Class",
     long_description=long_description,
     long_description_content_type="text/markdown",
